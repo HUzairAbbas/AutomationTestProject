@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Cypress Test Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUzairAbbas/AutomationTestProject.git"
+  },
+  "author": "Uzair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUzairAbbas/AutomationTestProject/issues"
+  },
+  "homepage": "https://github.com/HUzairAbbas/AutomationTestProject#readme",
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
+}
